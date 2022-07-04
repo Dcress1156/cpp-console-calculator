@@ -1,0 +1,10 @@
+﻿  misc.cpp
+  operators.cpp
+  operatorselect.cpp
+C:\Users\Tony\source\repos\testenv2\testenv2\operatorselect.cpp(41,3): warning C4551: function call missing argument list
+  source.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  testenv2.vcxproj -> C:\Users\Tony\source\repos\testenv2\x64\Release\testenv2.exe

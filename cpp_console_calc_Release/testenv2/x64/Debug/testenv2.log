@@ -1,0 +1,7 @@
+﻿  misc.cpp
+  operators.cpp
+  operatorselect.cpp
+C:\Users\Tony\source\repos\testenv2\testenv2\operatorselect.cpp(41,3): warning C4551: function call missing argument list
+  source.cpp
+  Generating Code...
+  testenv2.vcxproj -> C:\Users\Tony\source\repos\testenv2\x64\Debug\testenv2.exe
